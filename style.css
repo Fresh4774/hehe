@@ -79,8 +79,6 @@ font-weight: bold;
 #yay {
   display: none;
 
-  /* مخفي عند البداية */
-
   position: absolute;
 
   margin-top: -100px;
