@@ -12,7 +12,7 @@
 
 body {
   font-family: Rubik, sans-serif;
-  background: #ffe4ef;
+  background: #001F54;
 
   width: 100%;
 
@@ -22,6 +22,8 @@ body {
 
   transition: 0.4s ease-in-out;
   user-select: none;
+
+  color: white;
 }
 
 button {
