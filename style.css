@@ -44,14 +44,6 @@ button {
   transition: 0.4s ease-in-out;
 }
 
-#yes:active {
-  background: #632d5d;
-}
-
-#no:active {
-  background: #310e25;
-}
-
 .containar {
   width: 100%;
 
@@ -65,13 +57,13 @@ button {
 }
 
 #yes {
-  background-color: #94418c;
+  background-color: black;
 font-weight: bold;
   color: white;
 }
 
 #no {
-  background-color: #4b1639;
+  background-color: black;
 font-weight: bold;
   color: white;
 }
